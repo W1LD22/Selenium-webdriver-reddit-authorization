@@ -1,5 +1,6 @@
 # Selenium-webdriver-reddit-authorization
 Selenium Webdriver это драйвер, позволяющий взаимодействовать с браузером и управлять его поведением, имитируя действия пользователя.
+
 Библиотеки вебдрайвера разрабываются для языков Java, Python, C#, Ruby, JavaScript.
 
 Драйвера поддерживаются браузерами Chrome, Firefox, Opera, Safari, InternetExplorer.
